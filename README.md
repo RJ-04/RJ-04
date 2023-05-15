@@ -13,6 +13,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rj-04&langs_count=7&layout=donut)](https://github.com/rj-04/github-readme-stats)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rj-04&show_icons=true&locale=en" alt="rj-04" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rj-04&size_weight=0.5&count_weight=0.5&show_icons=true&locale=en" alt="rj-04" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rj-04&" alt="rj-04" /></p>
